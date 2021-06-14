@@ -1,2 +1,2 @@
-# belajar-git
+# belajar-github
 ini folder pertama saya
