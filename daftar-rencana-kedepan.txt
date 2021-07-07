@@ -4,3 +4,4 @@ Rencana Kedepan Muhammad Yazid Zidan :
 - mempelajari bahasa pada pemrograman android (kotlin, dart)
   -> mempelajari frameworknya
   -> mempelajari konsepnya
+  -> mempublish program
